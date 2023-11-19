@@ -32,7 +32,7 @@ Easy has 1 Mark , Medium has 5 Marks , Hard has 10 Marks
 
 
 ### Sample Image 1
-![Sample Image1](https://raw.githubusercontent.com/a7coder/Reelo-Assignment/main/Screenshots/sample_input.jpg)
+![Sample Image1](https://raw.githubusercontent.com/a7coder/Reelo-Assignment/main/Screenshots/sample_input1.jpg)
 
 ### Sample Image 2
 ![Sample Image2](https://raw.githubusercontent.com/a7coder/Reelo-Assignment/main/Screenshots/sample_input2.jpg)
