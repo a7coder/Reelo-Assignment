@@ -1,0 +1,204 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of wave-particle duality.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Derive the equation for the velocity of a wave.",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+
+  {
+    "question": "Define kinetic energy.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the law of conservation of energy.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Calculate the potential energy of an object at a given height.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Solve for x: 3x + 5 = 20",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 + 5x + 6",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Find the roots of the equation: 2x^2 - 8x + 6 = 0",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Solve for x: 3x + 5 = 20",
+    "subject": "Math",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Find the least common multiple of 6 and 8.",
+    "subject": "Math",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Calculate the square root of 144.",
+    "subject": "Math",
+    "topic": "Arithmetic",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "What is the capital of India?",
+    "subject": "General Knowledge",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Name the largest country by land area.",
+    "subject": "General Knowledge",
+    "topic": "Countries",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "In which continent is Brazil located?",
+    "subject": "General Knowledge",
+    "topic": "Countries",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  
+  
+
+  {
+    "question": "What is the speed of sound in air?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of potential energy.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Solve for x: 2x + 3 = 10",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Describe the Pythagorean theorem.",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "What is the sum of the first 10 natural numbers?",
+    "subject": "Math",
+    "topic": "Arithmetic",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Explain the concept of compound interest.",
+    "subject": "Math",
+    "topic": "Arithmetic",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+  {
+    "question": "Name the capital of Japan.",
+    "subject": "General Knowledge",
+    "topic": "Countries",
+    "difficulty": "Easy",
+    "marks": 1
+  },
+  {
+    "question": "Which country is known as the Land of the Rising Sun?",
+    "subject": "General Knowledge",
+    "topic": "Countries",
+    "difficulty": "Medium",
+    "marks": 5
+  },
+ 
+  {
+    "question": "What is the frequency range of audible sound for humans?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Define kinetic energy in the context of physics.",
+    "subject": "Physics",
+    "topic": "Energy",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Factor the quadratic expression: x^2 - 5x + 6",
+    "subject": "Math",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of harmonic mean.",
+    "subject": "Math",
+    "topic": "Arithmetic",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Name the largest continent on Earth.",
+    "subject": "General Knowledge",
+    "topic": "Countries",
+    "difficulty": "Hard",
+    "marks": 10
+  }
+  
+]
