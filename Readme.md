@@ -8,9 +8,7 @@ The data for our sample questions is stored in a data.json file and our script i
 Subjects  -> {
   'Physics',
   'Math',
-  'General Knowledge',
-  
-}
+  'General Knowledge'}
 
 Topics -> {
   'Waves',
